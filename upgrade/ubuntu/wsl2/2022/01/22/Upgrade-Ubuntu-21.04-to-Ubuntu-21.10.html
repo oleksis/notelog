@@ -3,17 +3,19 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>notelog | Jupyter NoteLogs by oleksis.</title>
+<title>Upgrade from Ubuntu 21.04 ‘Hirsute Hippo’ to Ubuntu 21.10 ‘Impish Indri’ | notelog</title>
 <meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="notelog" />
+<meta property="og:title" content="Upgrade from Ubuntu 21.04 ‘Hirsute Hippo’ to Ubuntu 21.10 ‘Impish Indri’" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Jupyter NoteLogs by oleksis." />
-<meta property="og:description" content="Jupyter NoteLogs by oleksis." />
-<link rel="canonical" href="https://oleksis.github.io/jupyter/" />
-<meta property="og:url" content="https://oleksis.github.io/jupyter/" />
+<meta name="description" content="400: Invalid request" />
+<meta property="og:description" content="400: Invalid request" />
+<link rel="canonical" href="https://oleksis.github.io/jupyter/upgrade/ubuntu/wsl2/2022/01/22/Upgrade-Ubuntu-21.04-to-Ubuntu-21.10.html" />
+<meta property="og:url" content="https://oleksis.github.io/jupyter/upgrade/ubuntu/wsl2/2022/01/22/Upgrade-Ubuntu-21.04-to-Ubuntu-21.10.html" />
 <meta property="og:site_name" content="notelog" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-01-22T00:00:00-06:00" />
 <script type="application/ld+json">
-{"headline":"notelog","description":"Jupyter NoteLogs by oleksis.","@type":"WebSite","url":"https://oleksis.github.io/jupyter/","name":"notelog","@context":"https://schema.org"}</script>
+{"headline":"Upgrade from Ubuntu 21.04 ‘Hirsute Hippo’ to Ubuntu 21.10 ‘Impish Indri’","dateModified":"2022-01-22T00:00:00-06:00","datePublished":"2022-01-22T00:00:00-06:00","description":"400: Invalid request","mainEntityOfPage":{"@type":"WebPage","@id":"https://oleksis.github.io/jupyter/upgrade/ubuntu/wsl2/2022/01/22/Upgrade-Ubuntu-21.04-to-Ubuntu-21.10.html"},"@type":"BlogPosting","url":"https://oleksis.github.io/jupyter/upgrade/ubuntu/wsl2/2022/01/22/Upgrade-Ubuntu-21.04-to-Ubuntu-21.10.html","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/jupyter/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://oleksis.github.io/jupyter/feed.xml" title="notelog" /><!-- the google_analytics_id gets auto inserted from the config file -->
 
@@ -22,17 +24,19 @@
 <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-7272582-4','auto');ga('require','displayfeatures');ga('send','pageview');</script>
 
 <link rel="shortcut icon" type="image/x-icon" href="/jupyter/images/favicon.ico"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>notelog | Jupyter NoteLogs by oleksis.</title>
+<title>Upgrade from Ubuntu 21.04 ‘Hirsute Hippo’ to Ubuntu 21.10 ‘Impish Indri’ | notelog</title>
 <meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="notelog" />
+<meta property="og:title" content="Upgrade from Ubuntu 21.04 ‘Hirsute Hippo’ to Ubuntu 21.10 ‘Impish Indri’" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Jupyter NoteLogs by oleksis." />
-<meta property="og:description" content="Jupyter NoteLogs by oleksis." />
-<link rel="canonical" href="https://oleksis.github.io/jupyter/" />
-<meta property="og:url" content="https://oleksis.github.io/jupyter/" />
+<meta name="description" content="400: Invalid request" />
+<meta property="og:description" content="400: Invalid request" />
+<link rel="canonical" href="https://oleksis.github.io/jupyter/upgrade/ubuntu/wsl2/2022/01/22/Upgrade-Ubuntu-21.04-to-Ubuntu-21.10.html" />
+<meta property="og:url" content="https://oleksis.github.io/jupyter/upgrade/ubuntu/wsl2/2022/01/22/Upgrade-Ubuntu-21.04-to-Ubuntu-21.10.html" />
 <meta property="og:site_name" content="notelog" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-01-22T00:00:00-06:00" />
 <script type="application/ld+json">
-{"headline":"notelog","description":"Jupyter NoteLogs by oleksis.","@type":"WebSite","url":"https://oleksis.github.io/jupyter/","name":"notelog","@context":"https://schema.org"}</script>
+{"headline":"Upgrade from Ubuntu 21.04 ‘Hirsute Hippo’ to Ubuntu 21.10 ‘Impish Indri’","dateModified":"2022-01-22T00:00:00-06:00","datePublished":"2022-01-22T00:00:00-06:00","description":"400: Invalid request","mainEntityOfPage":{"@type":"WebPage","@id":"https://oleksis.github.io/jupyter/upgrade/ubuntu/wsl2/2022/01/22/Upgrade-Ubuntu-21.04-to-Ubuntu-21.10.html"},"@type":"BlogPosting","url":"https://oleksis.github.io/jupyter/upgrade/ubuntu/wsl2/2022/01/22/Upgrade-Ubuntu-21.04-to-Ubuntu-21.10.html","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
@@ -90,67 +94,43 @@ window.onload = wrap_img;
 </header>
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <div class="home"><h1 id="posts">Posts</h1>
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Upgrade from Ubuntu 21.04 &#39;Hirsute Hippo&#39; to Ubuntu 21.10 &#39;Impish Indri&#39;</h1><p class="post-meta post-meta-title"><time class="dt-published" datetime="2022-01-22T00:00:00-06:00" itemprop="datePublished">
+        Jan 22, 2022
+      </time>
+       • <span class="read-time" title="Estimated read time">
+    
+    
+      1 min read
+    
+</span></p>
+
+    
+      <p class="category-tags"><i class="fas fa-tags category-tags-icon"></i></i> 
+      
+        <a class="category-tags-link" href="/jupyter/categories/#upgrade">upgrade</a>
+        &nbsp;
+      
+        <a class="category-tags-link" href="/jupyter/categories/#Ubuntu">Ubuntu</a>
+        &nbsp;
+      
+        <a class="category-tags-link" href="/jupyter/categories/#wsl2">wsl2</a>
+        
+      
+      </p>
+    
+
+    </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <noscript><pre>400: Invalid request</pre></noscript>
+<script src="https://gist.github.com/5c2f178ea4ea700a2155eaf476942e39.js?file=Upgrade_Ubuntu-21.04_to_Ubuntu-21.10.md"> </script>
 
 
-
-  
-
-  <!-- Hide posts if front matter flag hide:true -->
-  
-  <ul class="post-list"><li><h3>
-    <a class="post-link" href="/jupyter/upgrade/ubuntu/wsl2/2022/01/22/Upgrade-Ubuntu-21.04-to-Ubuntu-21.10.html">
-    Upgrade from Ubuntu 21.04 &#39;Hirsute Hippo&#39; to Ubuntu 21.10 &#39;Impish Indri&#39;
-    </a>
-</h3><p class="post-meta">Jan 22, 2022</p>
-</li><li><h3>
-    <a class="post-link" href="/jupyter/compile/wxpython/gui/python/ubuntu/wsl2/2022/01/22/Compile-wxPython-4.1.1-Python3.9.5-Ubuntu-21.04-hirsute-hippo.html">
-    Compile wxPython 4.1.1 using Ubuntu on Windows Community Preview
-    </a>
-</h3><p class="post-meta">Jan 22, 2022</p>
-</li><li><h3>
-    <a class="post-link" href="/jupyter/compile/wxpython/gui/python/pymsvc/msvc/2022/01/14/Compile-wxPython-412a1-Python3.10.1-pyMSVC-Windows.html">
-    Compile wxPython 4.1.2a1 using pyMSVC package
-    </a>
-</h3><p class="post-meta">Jan 14, 2022</p>
-</li><li><h3>
-    <a class="post-link" href="/jupyter/compile/wxpython/gui/python/2021/12/21/Compile-wxPython-4.1.2a1-Python3.10-Windows.html">
-    Compile wxPython 4.1.2a1 using Microsoft C++ Build Tools 2019
-    </a>
-</h3><p class="post-meta">Dec 21, 2021</p>
-</li><li><h3>
-    <a class="post-link" href="/jupyter/ipython/audio/progressbar/jupyter/2020/08/30/ipython-display-audio-progress-bar.html">
-    IPython display Audio and ProgressBar
-    </a>
-</h3><p class="post-meta-description">Ejecutar el sonido de un audio y visualizar una barra de progreso durante el procesamiento de elementos</p><p class="post-meta">Aug 30, 2020</p>
-</li><li><h3>
-    <a class="post-link" href="/jupyter/nltk/nlp/python/jupyter/carnets/2020/04/06/nltk-install-download-add-resource-data-path.html">
-    NLTK install and download resources to data path
-    </a>
-</h3><p class="post-meta-description">Instalar y descargar recursos al directorio nltk_data usando Carnets</p><p class="post-meta">Apr 6, 2020</p>
-</li><li><h3>
-    <a class="post-link" href="/jupyter/selenium/python/pytest/jupyter/template/pybites/2020/03/19/pybites-selenium-template.html">
-    PyBites Selenium Template for Exercises
-    </a>
-</h3><p class="post-meta-description">Resolver y realizar Test para PyBites usando Selenium</p><p class="post-meta">Mar 19, 2020</p>
-</li><li><h3>
-    <a class="post-link" href="/jupyter/python/pytest/jupyter/template/pybites/2020/03/08/pybites-template-jupyter.html">
-    PyBites Template for Exercises
-    </a>
-</h3><p class="post-meta-description">Resolver y realizar Test para PyBites</p><p class="post-meta">Mar 8, 2020</p>
-</li><li><h3>
-    <a class="post-link" href="/jupyter/python/jupyter/threading/multiprocessing/concurrent/timeit/carnets/2020/03/04/threading-multiprocessing-jupyter.html">
-    Threading vs Multiprocessing in Jupyter
-    </a>
-</h3><p class="post-meta-description">Medir el tiempo de ejecución usando Threads y Multiprocess</p><p class="post-meta">Mar 4, 2020</p>
-</li><li><h3>
-    <a class="post-link" href="/jupyter/python/jupyter/requests/pandas/api/json/2020/02/29/customsearch-api-pywombat-live.html">
-    Google JSON API Custom Search Engine for Pywombat
-    </a>
-</h3><p class="post-meta-description">Listar los primeros Pywombat Exercises utilizando la API JSON de Custom Search Engine de Google</p><p class="post-meta">Feb 29, 2020</p>
-</li></ul>
-
-    </div>
+  </div><a class="u-url" href="/jupyter/upgrade/ubuntu/wsl2/2022/01/22/Upgrade-Ubuntu-21.04-to-Ubuntu-21.10.html" hidden></a>
+</article>
       </div>
     </main><footer class="site-footer h-card">
   <data class="u-url" href="/jupyter/"></data>
