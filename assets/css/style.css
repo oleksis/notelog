@@ -444,7 +444,10 @@ pre, code { border-color: #333333; background-color: #1e1e1e; }
 
 .post-meta { color: rgba(255, 255, 255, 0.38); }
 
-/* .post-content p, .post-content li { color: $med-emph; } */
+.post-content p { color: rgba(255, 255, 255, 0.69); }
+
+.markdown-body > blockquote > p { color: #515151; }
+
 .btn { background-color: #1e1e1e !important; color: rgba(255, 255, 255, 0.87) !important; border-color: #333333 !important; }
 
 .btn:hover { background-color: #121212 !important; }
