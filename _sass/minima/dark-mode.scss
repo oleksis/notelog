@@ -15,9 +15,9 @@ a {
     color: rgb(75, 186, 255) !important;
 }
 
-a:hover {
+/* a:hover {
     color:$high-emph !important;
-}
+} */
 
 .site-title, .site-title:visited, .site-nav, .page-link {
     color: $high-emph !important;
@@ -46,9 +46,9 @@ pre, code {
     color: $low-emph;
 }
 
-.post-content p, .post-content li {
+/* .post-content p, .post-content li {
     color: $med-emph;
-}
+} */
 
 .btn {
     background-color: $overlay !important;
