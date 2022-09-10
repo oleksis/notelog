@@ -46,9 +46,13 @@ pre, code {
     color: $low-emph;
 }
 
-/* .post-content p, .post-content li {
+.post-content p {
     color: $med-emph;
-} */
+}
+
+.markdown-body > blockquote > p {
+    color: #515151;
+}
 
 .btn {
     background-color: $overlay !important;
