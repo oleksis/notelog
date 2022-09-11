@@ -50,7 +50,7 @@ pre, code {
     color: $med-emph;
 }
 
-.markdown-body > blockquote > p {
+.markdown-body > p, .markdown-body > blockquote > p {
     color: #515151;
 }
 
