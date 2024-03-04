@@ -2,6 +2,17 @@
   
     
         "post0": {
+            "title": "Linux song",
+            "content": "400: Invalid request .",
+            "url": "https://oleksis.github.io/jupyter/linux/kernel/song/valentine/releases/2024/03/04/Linux-song.html",
+            "relUrl": "/linux/kernel/song/valentine/releases/2024/03/04/Linux-song.html",
+            "date": " • Mar 4, 2024"
+        }
+        
+    
+  
+    
+        ,"post1": {
             "title": "The year 2024 is a leap year",
             "content": "400: Invalid request .",
             "url": "https://oleksis.github.io/jupyter/pascal/javascript/gregorian/calendar/2024/02/29/gregorian-calendar-javascript-app.html",
@@ -12,7 +23,7 @@
     
   
     
-        ,"post1": {
+        ,"post2": {
             "title": "Lagrange interpolation from Pascal to Python",
             "content": "400: Invalid request .",
             "url": "https://oleksis.github.io/jupyter/pascal/python/ruby/docker/lagrange/interpolation/2024/02/15/lagrange-interpolation-pascal-python.html",
@@ -23,7 +34,7 @@
     
   
     
-        ,"post2": {
+        ,"post3": {
             "title": "How Can I Contribute to the Black Python Developers Website using a development containers?",
             "content": "400: Invalid request .",
             "url": "https://oleksis.github.io/jupyter/devcontainer/vscode/python/ruby/jekyll/2023/11/05/bpdevs-devcontainer-jekyll-python.html",
@@ -34,7 +45,7 @@
     
   
     
-        ,"post3": {
+        ,"post4": {
             "title": "Compile drivers WiFi5 for Dual Band AC 1300Mbps USB3.0 Adapter",
             "content": "400: Invalid request .",
             "url": "https://oleksis.github.io/jupyter/drivers/wifi/linux/compilation/2023/08/21/Realtek-8812BU-Wireless-USB-Linux.html",
@@ -45,7 +56,7 @@
     
   
     
-        ,"post4": {
+        ,"post5": {
             "title": "Fedora 38 x86_64 on WSL2 using PowerShell",
             "content": "400: Invalid request .",
             "url": "https://oleksis.github.io/jupyter/wsl2/fedora/powershell/2023/08/05/Fedora-38-WSL2-PowerShell.html",
@@ -56,7 +67,7 @@
     
   
     
-        ,"post5": {
+        ,"post6": {
             "title": "Customize the Python REPL on start-up",
             "content": "400: Invalid request .",
             "url": "https://oleksis.github.io/jupyter/python/repl/rich/terminal/textual/2023/07/28/Customize-Python-REPL-start_up.html",
@@ -67,7 +78,7 @@
     
   
     
-        ,"post6": {
+        ,"post7": {
             "title": "K3S on Windows Subsystem for Linux",
             "content": "400: Invalid request .",
             "url": "https://oleksis.github.io/jupyter/kubernetes/k3s/wsl2/2023/05/08/K3S-Windows-Subsystem-Linux.html",
@@ -78,7 +89,7 @@
     
   
     
-        ,"post7": {
+        ,"post8": {
             "title": "Rancher Desktop, K3s and Traefik as ingress controller",
             "content": "400: Invalid request .",
             "url": "https://oleksis.github.io/jupyter/kubernetes/k3s/rancher/2023/04/25/Rancher-Desktop_Kubernetes_Traefik.html",
@@ -89,7 +100,7 @@
     
   
     
-        ,"post8": {
+        ,"post9": {
             "title": "Comparison between Python Launcher for Windows and Unix",
             "content": "400: Invalid request .",
             "url": "https://oleksis.github.io/jupyter/python/pylauncher/2023/04/22/Comparison-Python-Launcher-Windows-Unix.html",
@@ -100,7 +111,7 @@
     
   
     
-        ,"post9": {
+        ,"post10": {
             "title": "Using Docker Scout Action for Summary Jobs and Shields.io badges",
             "content": "400: Invalid request .",
             "url": "https://oleksis.github.io/jupyter/docker/scout/softwaresupplychain/github/badges/2023/03/10/Docker-Scout-GitHub-Actions-Summary-badges.html",
@@ -111,7 +122,7 @@
     
   
     
-        ,"post10": {
+        ,"post11": {
             "title": "How to configure Tox and Pyenv",
             "content": "400: Invalid request .",
             "url": "https://oleksis.github.io/jupyter/python/pyenv/tox/2023/01/01/Tox-Pyenv.html",
@@ -122,7 +133,7 @@
     
   
     
-        ,"post11": {
+        ,"post12": {
             "title": "Compile wxPython 4.2.0 from PyPI using pyenv 2.3.3 on Ubuntu 22.04",
             "content": "400: Invalid request .",
             "url": "https://oleksis.github.io/jupyter/python/pyenv/wxpython/pypi/ubuntu/2022/08/29/Compile-wxPython-4.2.0-PyP-pyenv-2.3.3-Ubuntu-22.04.html",
@@ -133,7 +144,7 @@
     
   
     
-        ,"post12": {
+        ,"post13": {
             "title": "Setup Python Coding Environment on Windows",
             "content": "400: Invalid request .",
             "url": "https://oleksis.github.io/jupyter/python/pyenv/powershell/2022/08/11/Setup-Python-Coding-Environment-Window.html",
@@ -144,7 +155,7 @@
     
   
     
-        ,"post13": {
+        ,"post14": {
             "title": "Update openSUSE 15.3 to 15.4",
             "content": "400: Invalid request .",
             "url": "https://oleksis.github.io/jupyter/upgrade/opensuse/2022/01/27/Update-openSUSE-15.3-to-15.4.html",
@@ -155,7 +166,7 @@
     
   
     
-        ,"post14": {
+        ,"post15": {
             "title": "Upgrade openSUSE Tumbleweed",
             "content": "400: Invalid request .",
             "url": "https://oleksis.github.io/jupyter/upgrade/opensuse/tumbleweed/2022/01/25/Upgrade-openSUSE-Tumbleweed.html",
@@ -166,7 +177,7 @@
     
   
     
-        ,"post15": {
+        ,"post16": {
             "title": "Upgrade from Ubuntu 21.04 'Hirsute Hippo' to Ubuntu 21.10 'Impish Indri'",
             "content": "400: Invalid request .",
             "url": "https://oleksis.github.io/jupyter/upgrade/ubuntu/wsl2/2022/01/22/Upgrade-Ubuntu-21.04-to-Ubuntu-21.10.html",
@@ -177,7 +188,7 @@
     
   
     
-        ,"post16": {
+        ,"post17": {
             "title": "Compile wxPython 4.1.1 using Ubuntu on Windows Community Preview",
             "content": "400: Invalid request .",
             "url": "https://oleksis.github.io/jupyter/compile/wxpython/gui/python/ubuntu/wsl2/2022/01/22/Compile-wxPython-4.1.1-Python3.9.5-Ubuntu-21.04-hirsute-hippo.html",
@@ -188,7 +199,7 @@
     
   
     
-        ,"post17": {
+        ,"post18": {
             "title": "Compile wxPython 4.1.2a1 using pyMSVC package",
             "content": "400: Invalid request .",
             "url": "https://oleksis.github.io/jupyter/compile/wxpython/gui/python/pymsvc/msvc/2022/01/14/Compile-wxPython-412a1-Python3.10.1-pyMSVC-Windows.html",
@@ -199,7 +210,7 @@
     
   
     
-        ,"post18": {
+        ,"post19": {
             "title": "Compile wxPython 4.1.2a1 using Microsoft C++ Build Tools 2019",
             "content": "400: Invalid request .",
             "url": "https://oleksis.github.io/jupyter/compile/wxpython/gui/python/2021/12/21/Compile-wxPython-4.1.2a1-Python3.10-Windows.html",
@@ -210,7 +221,7 @@
     
   
     
-        ,"post19": {
+        ,"post20": {
             "title": "IPython display Audio and ProgressBar",
             "content": "Requerimientos . IPython 7+ | . !pip install -U ipython from IPython.display import clear_output clear_output() print(&quot;Restart the runtime!&quot;) . from urllib.request import urlopen from IPython.display import Audio, ProgressBar sound_file=(&#39;https://raw.githubusercontent.com/oleksis/&#39; &#39;jupyter/master/assets/sounds/complete.wav&#39;) sound_local = &#39;temp_sound.wav&#39; #Save Sound local with urlopen(sound_file) as f_in, open(sound_local, &#39;wb&#39;) as f_out: f_out.write(f_in.read()) pb = ProgressBar(1000) for i, _ in enumerate(pb, 1): print(&quot; r&quot;, &quot;Processing %d element%s&quot; % (i, &quot;s&quot; if i &gt; 1 else &quot;&quot; ), sep=&quot;&quot;, end=&quot;&quot;, flush=True) Audio(sound_local, autoplay=True) . . Processing 1000 elements . Your browser does not support the audio element.",
             "url": "https://oleksis.github.io/jupyter/ipython/audio/progressbar/jupyter/2020/08/30/ipython-display-audio-progress-bar.html",
@@ -221,7 +232,7 @@
     
   
     
-        ,"post20": {
+        ,"post21": {
             "title": "NLTK install and download resources to data path",
             "content": "Intro . Instalar NLTK y descargar recursos al directorio nltk_data usando Carnets . !pip install nltk . Collecting nltk Downloading https://files.pythonhosted.org/packages/f6/1d/d925cfb4f324ede997f6d47bea4d9babba51b49e87a767c170b77005889d/nltk-3.4.5.zip (1.5MB) |████████████████████████████████| 1.5MB 10kB/s /s eta 0:00:014 Requirement already satisfied: six in /private/var/mobile/Containers/Data/Application/6ACBAC54-A47E-4DBF-A175-8CB3E8E8AC20/Library/lib/python3.7/site-packages (from nltk) (1.12.0) Installing collected packages: nltk Running setup.py install for nltk ... - |/- |/- |/- |/- |/- |/- |/- |/- |/- |/- |/- |/- |/- |/- |/- |/- |/- |/- |/- |/- |/- |/- |done Successfully installed nltk-3.4.5 . %mkdir &#39;nltk_data&#39; . import nltk nltk.download(&#39;stopwords&#39;, download_dir=&#39;./nltk_data&#39;) . [nltk_data] Downloading package stopwords to ./nltk_data... [nltk_data] Unzipping corpora/stopwords.zip. . True . import nltk nltk.download(&#39;punkt&#39;, download_dir=&#39;./nltk_data&#39;) . [nltk_data] Downloading package punkt to ./nltk_data... [nltk_data] Package punkt is already up-to-date! . True . Resolve LookupError exception nltk.data resource_not_found . import sys import nltk # Add location data path to nltk nltk.data.path.append(sys.path[0] + &#39;/nltk_data&#39;) #print(nltk.data.path) #help(nltk.corpus.stopwords.words) for w in nltk.corpus.stopwords.words(&#39;spanish&#39;): print(w, end=&#39; &#39;) . de la que el en y a los del se las por un para con no una su al lo como más pero sus le ya o este sí porque esta entre cuando muy sin sobre también me hasta hay donde quien desde todo nos durante todos uno les ni contra otros ese eso ante ellos e esto mí antes algunos qué unos yo otro otras otra él tanto esa estos mucho quienes nada muchos cual poco ella estar estas algunas algo nosotros mi mis tú te ti tu tus ellas nosotras vosotros vosotras os mío mía míos mías tuyo tuya tuyos tuyas suyo suya suyos suyas nuestro nuestra nuestros nuestras vuestro vuestra vuestros vuestras esos esas estoy estás está estamos estáis están esté estés estemos estéis estén estaré estarás estará estaremos estaréis estarán estaría estarías estaríamos estaríais estarían estaba estabas estábamos estabais estaban estuve estuviste estuvo estuvimos estuvisteis estuvieron estuviera estuvieras estuviéramos estuvierais estuvieran estuviese estuvieses estuviésemos estuvieseis estuviesen estando estado estada estados estadas estad he has ha hemos habéis han haya hayas hayamos hayáis hayan habré habrás habrá habremos habréis habrán habría habrías habríamos habríais habrían había habías habíamos habíais habían hube hubiste hubo hubimos hubisteis hubieron hubiera hubieras hubiéramos hubierais hubieran hubiese hubieses hubiésemos hubieseis hubiesen habiendo habido habida habidos habidas soy eres es somos sois son sea seas seamos seáis sean seré serás será seremos seréis serán sería serías seríamos seríais serían era eras éramos erais eran fui fuiste fue fuimos fuisteis fueron fuera fueras fuéramos fuerais fueran fuese fueses fuésemos fueseis fuesen sintiendo sentido sentida sentidos sentidas siente sentid tengo tienes tiene tenemos tenéis tienen tenga tengas tengamos tengáis tengan tendré tendrás tendrá tendremos tendréis tendrán tendría tendrías tendríamos tendríais tendrían tenía tenías teníamos teníais tenían tuve tuviste tuvo tuvimos tuvisteis tuvieron tuviera tuvieras tuviéramos tuvierais tuvieran tuviese tuvieses tuviésemos tuvieseis tuviesen teniendo tenido tenida tenidos tenidas tened .",
             "url": "https://oleksis.github.io/jupyter/nltk/nlp/python/jupyter/carnets/2020/04/06/nltk-install-download-add-resource-data-path.html",
@@ -232,7 +243,7 @@
     
   
     
-        ,"post21": {
+        ,"post22": {
             "title": "PyBites Selenium Template for Exercises",
             "content": "Intro . Este notebook se podrá usar como plantilla para resolver los ejercicios PyBites de la plataforma codechalleng.es . Pre-requerimientos . Tener una licencia válida para poder acceder al ejercicio (Bite) completo. | Intalar chromium-chromedriver y configurarlo. | Instalar Selenium. | . Uso . Establecer como variable de entorno del sistema global tu USERNAME y PASSWORD de la plataforma codechalleng.es (Celda #1) | Realizar el proceso de Login en la plataforma codechalleg.es ejecutando la (Celda #2) | Establecer el número del ejercicio (BITE_NUM) a resolver (Celda #3) | Mostrar el contenido del archivo PB_FILE utilizando el comando !cat (Celda #4) | Imprimir el nombre del archivo (BITE_NAME) (Celda #5) | Sobrescribir el archivo (BITE_NAME) con la solución utilizando el comando mágico de celda %%writefile (Celda #6) | Asegurarse de pasar las pruebas (PB_TEST) utilizando pytest (Celda #7) | Salvar la solución (CODE) y ejecutar las pruebas en la plataforma codechalleng.es (Celda #8) | Resolver otros ejercicios, repetir el proceso a partir de la* (Celda #3)** | . # https://gist.github.com/korakot/5c8e21a5af63966d80a676af0ce15067 !apt install chromium-chromedriver !pip install selenium %env PB_USER=YOUR_USERNAME %env PB_PW=YOUR_PASSWORD . # https://gist.github.com/pybites/0aa6d9833849a0942ed218b1d46c47b4#file-platform_login_selenium-py import os from IPython.display import HTML # make venv and pip install selenium from selenium import webdriver from selenium.webdriver.common.by import By from selenium.webdriver.common.action_chains import ActionChains from selenium.webdriver.common.keys import Keys from selenium.webdriver.support.ui import WebDriverWait from selenium.webdriver.support import expected_conditions as EC # Set your codechalleng.es username and password in venv/bin/activate, then source it USERNAME = os.getenv(&quot;PB_USER&quot;) or &quot;YOUR_USERNAME&quot; PASSWORD = os.getenv(&quot;PB_PW&quot;) or &quot;YOUR_PASSWORD&quot; BASE_URL = &quot;https://codechalleng.es&quot; LOGIN_URL = f&quot;{BASE_URL}/login/&quot; WAIT_SECONDS = 2 CODE_TEMPLATE = &quot;&quot; TEST_NAME = &quot;&quot; CODE_TEST = &quot;&quot; # Set options to be headless, .. options = webdriver.ChromeOptions() options.add_argument(&#39;--headless&#39;) options.add_argument(&#39;--no-sandbox&#39;) options.add_argument(&#39;--disable-dev-shm-usage&#39;) # Open it, go to a website, and get results driver = webdriver.Chrome(&#39;chromedriver&#39;, options=options) driver.get(LOGIN_URL) driver.find_element_by_name(&#39;username&#39;).send_keys(USERNAME) driver.find_element_by_name(&#39;password&#39;).send_keys(PASSWORD + Keys.RETURN) print(&quot;You are being logged&quot;) . You are being logged . # Set your Bite to code BITE_NUM = 110 PYBITES_BITE_URL = f&quot;{BASE_URL}/bites/{BITE_NUM}&quot; driver.get(PYBITES_BITE_URL) # do your thing #_html = driver.page_source #print(_html) contentWrapperElement = driver.find_element_by_css_selector(&quot;div.mui-col-md-8&quot;) contentWrapperElement = contentWrapperElement.get_attribute(&quot;innerHTML&quot;) # Implicit Wait driver.implicitly_wait(WAIT_SECONDS) element = driver.find_element_by_name(&quot;template_code&quot;) CODE_TEMPLATE = element.get_attribute(&quot;value&quot;) element = driver.find_element_by_xpath(&quot;//a[@data-mui-controls=&#39;pane-default-2&#39;]/span&quot;) element.click() TEST_NAME = element.text TEST_NAME = TEST_NAME.strip(&quot;(&quot;).strip(&quot;)&quot;) driver.execute_script(&quot;mui.tabs.activate(&#39;pane-default-2&#39;)&quot;) # Simular Copy/Paste en Selenium # Copy cb = driver.execute_script(&quot;return copyTestToClipBoard();&quot;) alert = driver.switch_to.alert alert.accept() driver.switch_to.default_content # Crear textArea js = &quot;&quot;&quot; function createTextArea(){ var tArea = document.createElement(&#39;textarea&#39;); tArea.id = &#39;myTestCode&#39;; var pane = document.getElementById(&#39;pane-default-2&#39;); pane.appendChild(tArea); } createTextArea(); &quot;&quot;&quot; cb = driver.execute_script(js) # Paste textAreaElement = driver.find_element_by_id(&quot;myTestCode&quot;) textAreaElement.click() textAreaElement.send_keys(Keys.CONTROL + &quot;v&quot;) CODE_TEST = textAreaElement.get_property(&quot;value&quot;) BITE_NAME = TEST_NAME.split(&quot;test_&quot;)[1] with open(BITE_NAME, &quot;w&quot;) as file: file.write(CODE_TEMPLATE) os.environ[&quot;PB_FILE&quot;] = BITE_NAME with open(TEST_NAME, &quot;w&quot;) as file: file.write(CODE_TEST) os.environ[&quot;PB_TEST&quot;] = TEST_NAME _html = contentWrapperElement + &quot; n n&quot; + f&quot;&lt;b&gt;{BITE_NAME} and {TEST_NAME} files written to local storage!&lt;/b&gt;&quot; HTML(_html) . Bite 110. Type conversion and exception handling ☆ . In this Bite you complete the divide_numbers function that takes a numerator and a denominator (the number above and below the line respectively when doing a division). . First you try to convert them to ints, if that raises a ValueError you will re-raise it (using raise). . To keep things simple we can expect this function to be called with int/float/str types only (read the tests why ...) . Getting passed that exception (no early bail out, we&#39;re still in business) you try to divide numerator by denominator returning its result. . If denominator is 0 though, Python throws another exception. Figure out which one that is and catch it. In that case return 0. . division.py and test_division.py files written to local storage! !cat $PB_FILE . def divide_numbers(numerator, denominator): &#34;&#34;&#34;For this exercise you can assume numerator and denominator are of type int/str/float. Try to convert numerator and denominator to int types, if that raises a ValueError reraise it. Following do the division and return the result. However if denominator is 0 catch the corresponding exception Python throws (cannot divide by 0), and return 0&#34;&#34;&#34; pass . Copy and paste the Code Template into the next cell. Write the solution and overwrite it to the file using the magic command %%writefile &lt;PB_FILE&gt; in the first line of the cell . print(f&quot;%%writefile {BITE_NAME}&quot;) . %%writefile division.py . %%writefile division.py def divide_numbers(numerator, denominator): try: numerator, denominator = int(numerator), int(denominator) result = numerator / denominator except ValueError as error: raise(error) except ZeroDivisionError as error: result = 0 return result . Overwriting division.py . Uncomment the next line and run it until passing tests with pytest . #!pytest --capture=fd $PB_TEST !python -m pytest $PB_TEST print(f&quot;!python -m pytest -V {TEST_NAME}&quot;) . ============================= test session starts ============================== platform linux -- Python 3.6.9, pytest-3.6.4, py-1.8.1, pluggy-0.7.1 rootdir: /content, inifile: plugins: typeguard-2.7.1 collected 9 items test_division.py ......... [100%] =========================== 9 passed in 0.06 seconds =========================== !python -m pytest -V test_division.py . When you are sure that your code passes the Test, execute the next cell for ”SAVE AND RUN TESTS . with open(BITE_NAME, &quot;rb&quot;) as file: CODE = file.read() CODE = str(CODE).strip(&quot;b&quot;).strip(&quot;&#39;&quot;).strip(&#39;&quot;&#39;) js = f&quot;&quot;&quot;function MyCopyCodeToForm(){{ var code = `{CODE}`; document.getElementById(&#39;code&#39;).value = code; }} MyCopyCodeToForm(); var saveRunTest = document.getElementById(&#39;save&#39;); saveRunTest.setAttribute(&#39;onclick&#39;, &#39;return MyCopyCodeToForm();&#39;) saveRunTest.click(); &quot;&quot;&quot; driver.execute_script(js) print(&quot;SAVE AND RUN TESTS&quot;) . SAVE AND RUN TESTS .",
             "url": "https://oleksis.github.io/jupyter/selenium/python/pytest/jupyter/template/pybites/2020/03/19/pybites-selenium-template.html",
@@ -243,7 +254,7 @@
     
   
     
-        ,"post22": {
+        ,"post23": {
             "title": "PyBites Template for Exercises",
             "content": "Intro . Este notebook se podrá usar como plantilla para resolver los ejercicios PyBites de la plataforma codechalleng.es . Uso . En la PyBites Platform selecciona un Bite Exercise y haz clic en GITHUB -&gt; DOWNLOAD BITE | Copiar este notebook a la carpeta pybites_biteXYZ, ejemplo: pybites_bite130. | Abrir el notebook y ejecutar todas las celdas ( Cell -&gt; Run All ). | Cargar (%load) el módulo python ejecutando la segunda celda (más abajo) para resolver ejercicio. | Escribir (%%writefile) al módulo python la respuesta al ejercicio. Leer la Nota para más detalles. | Ejecutar las pruebas, descomentar y ejecutar la última celda utilizando PyTest. . Note: El comando mágico de celda %%writefile debes estar en la primera línea, borra el comentario generado por el comando mágico de línea %load . | . from pathlib import Path from IPython.display import HTML BITE = &quot;./bite.html&quot; files = Path().glob(&quot;test_*.py&quot;) try: PYBITES = next(files) except StopIteration: raise(Exception(&quot;PYBITES_TEMPLATE &quot; + &quot;must be inside pybite_biteXYZ &quot; + &quot;folder with a test file&quot;)) if PYBITES: PYBITES = str(PYBITES).split(&quot;test_&quot;)[1] def write_imports(file=&quot;__imports.py&quot;, code=None, mode=&quot;w&quot;, seek=0): with open(file, mode) as pb: lines = &quot;&quot; if &quot;r&quot; in mode: lines = &quot;&quot;.join(pb.readlines()) lines = f&quot;{code} n{lines}&quot; pb.seek(seek) pb.truncate() pb.writelines(lines) HTML(filename=BITE) . CODE = f&quot;%load {PYBITES}&quot; write_imports(code=CODE) CODE = f&quot;%%writefile {PYBITES}&quot; write_imports(file=PYBITES, code=CODE, mode=&quot;r+&quot;, seek=0) %load __imports.py . .",
             "url": "https://oleksis.github.io/jupyter/python/pytest/jupyter/template/pybites/2020/03/08/pybites-template-jupyter.html",
@@ -254,7 +265,7 @@
     
   
     
-        ,"post23": {
+        ,"post24": {
             "title": "Threading vs Multiprocessing in Jupyter",
             "content": "El uso de la programación concurrente en Python es interesante y sorprendente. Experimentando con Carnets y Google Colaboratory he llegado a la conclusión que su uso se justifica según el problema a resolver. . En Carnet el uso de multiprocessing no esta soportado hasta ahora. Su creador Nicolas Holzschuch comenta lo siguiente: . The short answer is:&quot;you can&#39;t use multiprocessing with Carnets&quot;. I&#39;m sorry about that, but it is really too difficult to support.&gt; &gt;The long answer is:multiprocessing in Python relies on multiple calls to fork(), with a pool of process and a queue for tasks to be executed. iOS does not have the fork() system call, so there is no way to make this work, and I don&#39;t think there is one.&gt; Since most iPads have only 4 cores anyway (and some cores are already used by the system and the Jupyter server), I am not certain we would gain much processing power anyway. . En las siguientes celdas puedes observar y experimentar como se comporta el tiempo de ejecución en Jupyter usando Threading y Multiprocessing . %%writefile fibonacci.py def fibonacci(n): if n &lt; 2: return n return fibonacci(n - 1) + fibonacci(n - 2) . from concurrent.futures import ThreadPoolExecutor from fibonacci import fibonacci def fibs(n): &quot;&quot;&quot;Fibonacci sequentially&quot;&quot;&quot; for i in range(1, n + 1): _ = fibonacci(i) def fibs_thread(n): &quot;&quot;&quot;Fibonacci with Threads&quot;&quot;&quot; with ThreadPoolExecutor(max_workers=4) as exct: exct.map(fibonacci, range(1, n + 1)) if __name__ == &quot;__main__&quot;: N=30 %timeit fibs(N) print() %timeit fibs_thread(N) . from multiprocessing import Pool, cpu_count from fibonacci import fibonacci def fibs_multiprocess(n): &quot;&quot;&quot;Fibonacci with CPU Multiprocess&quot;&quot;&quot; with Pool(processes=cpu_count()) as cpu_pool: cpu_pool.map(fibonacci, range(1, n + 1)) if __name__ == &quot;__main__&quot;: N=30 %timeit fibs_multiprocess(N) . Referencias . Multiprocessing in Python on Windows and Jupyter/Ipython — Making it work | Speed up your code using multiprocessing in python | Python Multiprocessing Example | Process-based parallelism | .",
             "url": "https://oleksis.github.io/jupyter/python/jupyter/threading/multiprocessing/concurrent/timeit/carnets/2020/03/04/threading-multiprocessing-jupyter.html",
@@ -265,7 +276,7 @@
     
   
     
-        ,"post24": {
+        ,"post25": {
             "title": "Google JSON API Custom Search Engine for Pywombat",
             "content": "En este notebook utilizaremos la API de Google para búsquedas personalizadas sobre un sitio de interés, en este caso Pywombat. . Requerimientos . requests : Realizar peticiones API JSON de Google | pandas : Mostrar resultados en forma de Tabla | nbval : Realizar Test (py.test) sobre notebook | . import json import requests import pandas as pd API_KEY=&quot;AIzaSyD6MLBUV45-lqHIOlfQ7xuGlkEaYMB7_P4&quot; URL_API=f&quot;https://www.googleapis.com/customsearch/v1?q=exercise&amp;cx=000045984045285095660:7xaecdr9bat&amp;key={API_KEY}&quot; results=dict() columns=(&#39;htmlTitle&#39;, &#39;link&#39;, &#39;htmlSnippet&#39;) def getResults(): data=dict() try: response=requests.get(URL_API) data=response.json() if &#39;error&#39; in data: raise Exception(f&quot;{data[&#39;error&#39;][&#39;message&#39;]}&quot;) except Exception as error: #print(f&quot;ERROR {error} in API {URL_API}&quot;) print(f&quot;ERROR in API {URL_API}&quot;) return data def loadExercise(): with open(&#39;pywombat.json&#39;, &#39;r&#39;) as f: data=json.load(f) return data[&#39;items&#39;] data=getResults() for idx, item in enumerate(data.get(&#39;items&#39;,[]), 1): title=item[&#39;htmlTitle&#39;] link=item[&#39;link&#39;] snippet=item[&#39;htmlSnippet&#39;] results[idx]={&#39;htmlTitle&#39;:title, &#39;link&#39;:link, &#39;htmlSnippet&#39;:snippet} df=pd.DataFrame(data=results, index=columns).T df . context=&quot;Pywombat Exercises&quot; assert (&quot;context&quot; in data and context == data[&#39;context&#39;][&#39;title&#39;]),&quot;Error in Google Custom Search API&quot; print(&quot;Google Search API working!&quot;) .",
             "url": "https://oleksis.github.io/jupyter/python/jupyter/requests/pandas/api/json/2020/02/29/customsearch-api-pywombat-live.html",
